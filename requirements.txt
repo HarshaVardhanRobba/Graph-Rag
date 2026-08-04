@@ -1,0 +1,9 @@
+phidata
+typer
+python-dotenv
+sqlalchemy
+psycopg[binary]
+pgvector
+google-genai
+ollama
+pypdf

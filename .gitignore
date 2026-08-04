@@ -1,0 +1,152 @@
+# Common ignores for Python projects
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+.ENV/
+myenv/
+
+# Pyenv
+.python-version
+
+# Pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask instance folder
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# Pyright
+typings/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node dependencies (in case repo includes JS frontend)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+
+# Environment variables file
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# SQLite
+*.sqlite3
+
+# Generic backups
+*~
+*.swp
+*.swo
+
+# VS Code workspace storage
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Ignore local session files and workspace state
+*.session
+
+# Windows image file caches
+Thumbs.db
+
+# OneDrive temp files
+~$*
+
+# End of file
