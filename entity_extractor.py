@@ -51,6 +51,7 @@ Output format:
 TEXT:
 
 {chunk}
+
 """
 
 # extractor class
