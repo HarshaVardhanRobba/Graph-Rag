@@ -43,6 +43,7 @@ Output Format:
 TEXT:
 
 {chunk}
+
 """
 
 # relationship extractor class
