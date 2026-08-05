@@ -33,7 +33,7 @@ from entity_extractor import EntityExtractor
 from relationship_extractor import RelationshipExtractor
 from neo4j_loader import Neo4jLoader
 
-from graph_retrieval import GraphRetriever
+from graph_retrieval import GraphRetriever 
 from vector_retrival import VectorRetriever
 from hybrid_retrieval import HybridRetriever
 
