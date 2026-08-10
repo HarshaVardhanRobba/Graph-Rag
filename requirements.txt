@@ -7,3 +7,4 @@ pgvector
 google-genai
 ollama
 pypdf
+neo4j
